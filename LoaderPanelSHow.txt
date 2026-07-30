@@ -1,5 +1,5 @@
-1 = essential panel = show
-2 = external panel = show
+1 = essential panel = hide
+2 = external panel = hide
 3 = panel panel = show
 
 //if the show changes to hide it does not show that panel
